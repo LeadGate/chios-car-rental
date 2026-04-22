@@ -1,0 +1,18 @@
+# Chios Car Rental
+
+> Chios Car Rental helps travellers compare and book car rentals.
+
+- Website: https://chios-car-rental.com
+- Email: info@chios-car-rental.com
+
+## Pages
+
+- [Home](https://chios-car-rental.com/)
+- [Airport](https://chios-car-rental.com/chios-airport-car-rental)
+- [Driving Tips](https://chios-car-rental.com/driving-in-chios)
+- [Day Trips](https://chios-car-rental.com/day-trips-from-chios)
+- [Parking & Fuel](https://chios-car-rental.com/parking-and-fuel-guide)
+- [FAQ](https://chios-car-rental.com/chios-car-rental-faq)
+- [About](https://chios-car-rental.com/about)
+- [Contact](https://chios-car-rental.com/contact)
+- [Privacy Policy](https://chios-car-rental.com/privacy)
