@@ -1,3 +1,4 @@
+import AffiliateWidget from "@/components/AffiliateWidget";
 import Layout from "@/components/Layout";
 import SEOHead from "@/components/SEOHead";
 import HeroSection from "@/components/HeroSection";
@@ -129,12 +130,14 @@ const FAQ = () => {
 
       <HeroSection
         title="Chios Car Rental FAQ: Your Top 10 Questions Answered"
-        subtitle={<><p className="text-white drop-shadow-md">Planning to rent a car on Chios usually comes down to four decisions: driving rules, insurance coverage, airport pickup, and where to park in the mastic villages. This FAQ answers the most common Chios car rental questions with 2025 references to Law 4850/2021, Law 5209/2025, HCAA airport operations at JKH (ICAO: LGHI), and policy patterns seen at SMART Rent A Car, Aegean Atsalis, Kampas Rent A Car, Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, and Goldcar.</p></>}
+        subtitle={<><p className="text-white drop-shadow-md">Ten answers for planning a self-drive holiday on the island: driving rules under the new 2025 Highway Code, IDP requirements, CDW excess amounts, minimum age thresholds, the Çeşme ferry question, and parking inside the medieval Mastichochoria. Each answer cites Greek Law 4850/2021 or Law 5209/2025 plus published operator policies.</p></>}
         image="/16.webp"
         imageAlt="Modern car keys and a rental agreement on a wooden cafe table"
         ctaText="Compare Car Rental Deals"
         ctaHref="#compare"
       />
+
+      <AffiliateWidget />
 
       <section className="container max-w-4xl py-10">
       <FAQSection

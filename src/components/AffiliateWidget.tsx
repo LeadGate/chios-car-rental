@@ -1,22 +1,32 @@
-import { Search } from "lucide-react";
+import { useEffect, useRef } from "react";
+
+// Chíos city_id = 91961 in the Localrent widget catalog. Note: the SIGNED
+// endpoint (widget.localrent.com/api/cities/18?key=travelpayouts&signature=...)
+// exposes 149 GR cities including Chíos; the unsigned endpoint only shows
+// 23 cities and omits Chíos — localrent_widget_lookup.py was querying the
+// unsigned endpoint. Verified against live widget on 2026-04-22.
+const WIDGET_SRC =
+  "https://tpembd.com/content?trs=517071&shmarker=713621.chios-car-rental&locale=en&curr=EUR&country=18&city=91961&lang=en&width=100&background=transparent&logo=false&header=false&gearbox=false&cars=false&border=false&footer=false&campaign_id=87&promo_id=4322";
 
 const AffiliateWidget = () => {
+  const ref = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    const host = ref.current;
+    if (!host || host.dataset.loaded === "1") return;
+    host.dataset.loaded = "1";
+    const script = document.createElement("script");
+    script.src = WIDGET_SRC;
+    script.async = true;
+    script.charset = "utf-8";
+    host.appendChild(script);
+  }, []);
+
   return (
-    <section className="py-8" id="compare-cars">
+    <section className="py-8" id="compare">
       <div className="container max-w-3xl mx-auto">
-        <div className="bg-background rounded-lg p-6 text-center border border-border shadow-sm">
-          <div className="flex items-center justify-center gap-3 mb-3">
-            <Search className="text-primary" size={24} />
-            <h3 className="text-lg font-bold m-0">Search &amp; Compare Car Rentals</h3>
-          </div>
-          <div className="my-4 rounded-lg max-w-3xl mx-auto overflow-visible">
-            <p className="text-muted-foreground text-sm py-8">
-              Rental search widget loading&hellip;
-            </p>
-          </div>
-          <p className="text-muted-foreground text-xs italic mt-3">
-            Free cancellation on most vehicles
-          </p>
+        <div className="bg-background rounded-lg p-4 border border-border shadow-sm">
+          <div ref={ref} className="min-h-[120px]" />
         </div>
       </div>
     </section>

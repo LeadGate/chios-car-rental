@@ -1,18 +1,33 @@
 # Chios Car Rental
 
-> Chios Car Rental helps travellers compare and book car rentals.
+> Independent comparison of car rental deals on Chios island, Greece. Covers JKH airport pickup, Greek driving law (Law 5209/2025, Law 4850/2021), parking rules, mastic villages itinerary, and policies of local operators (SMART Rent A Car, Aegean Atsalis, Kampas Rent A Car, Masticars) and international brands (Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, Goldcar).
 
 - Website: https://chios-car-rental.com
 - Email: info@chios-car-rental.com
+- Full content dump: https://chios-car-rental.com/llms-full.txt
 
 ## Pages
 
-- [Home](https://chios-car-rental.com/)
-- [Airport](https://chios-car-rental.com/chios-airport-car-rental)
-- [Driving Tips](https://chios-car-rental.com/driving-in-chios)
-- [Day Trips](https://chios-car-rental.com/day-trips-from-chios)
-- [Parking & Fuel](https://chios-car-rental.com/parking-and-fuel-guide)
-- [FAQ](https://chios-car-rental.com/chios-car-rental-faq)
-- [About](https://chios-car-rental.com/about)
-- [Contact](https://chios-car-rental.com/contact)
-- [Privacy Policy](https://chios-car-rental.com/privacy)
+- [Chios Car Rental: Compare Local & JKH Airport Deals](https://chios-car-rental.com/): Homepage — category pricing, airport vs port pickup, local vs international operators, driving essentials preview, best day trips. Off-peak €22/day, peak August €66–82/day.
+- [Chios Airport (JKH / Omiros) Rental Pickup](https://chios-car-rental.com/chios-airport-car-rental): JKH airport guide — HCAA-operated 1,511 m runway; Arrivals Hall rental desk location; SMART 400 m lot; per-destination drive times and local fuel pricing.
+- [Driving in Chios: 2026 Rules & Fines](https://chios-car-rental.com/driving-in-chios): Greek Law 5209/2025 Highway Code — 30 km/h urban limit, €350 phone fine, €700 red light, automated cameras; Law 4850/2021 IDP exemption for USA/UK/CA/AU/GI; road-by-road cautions for Volissos, Avgonyma–Anavatos, Nea Moni.
+- [Chios Mastic Villages Driving Itinerary](https://chios-car-rental.com/day-trips-from-chios): Southern circuit Armolia → Pyrgi → Mesta (60 km loop). Pyrgi xysta facades, Mesta fortress. Mastic Museum €8, closed Tuesday. Villages are pedestrian-only inside walls.
+- [Chios Parking & Fuel Guide 2026](https://chios-car-rental.com/parking-and-fuel-guide): Peripheral parking lots (Farkaina, Ramnis, Evodos); Karfas July/Aug saturation; EL.IN Veriti 41 (€1.939/L) vs Leoforos Enoseos (€2.099/L); €80 parking fine; 5m/15m/3m rule.
+- [Chios Car Rental FAQ](https://chios-car-rental.com/chios-car-rental-faq): 10 answers citing Law 4850/2021 and Law 5209/2025: IDP rules, 30 km/h urban limit, Çeşme ferry, CDW excess (€160–3000), minimum age, debit cards, mastic-village parking, fine payment.
+- [About Chios Car Rental — Our Sources & Methods](https://chios-car-rental.com/about): Editorial methodology — we cross-reference Greek legislation, HCAA, EL.AS, ELSTAT. Rent comparison from local operators (SMART, Aegean Atsalis, Kampas, Masticars) and international brands.
+
+## Key Data Points
+
+- **Airport:** Chios Island National Airport (IATA: JKH, ICAO: LGHI), operated by the Hellenic Civil Aviation Authority (HCAA) — NOT Fraport. 1,511 m runway, up to Airbus A320. ~230,000 pax/year.
+- **Urban speed limit:** 30 km/h on single-lane roads under Greek Law 5209/2025 (effective Autumn 2025).
+- **IDP exemption:** Drivers from USA, Canada, UK, Australia, Gibraltar are exempt from the International Driving Permit under Greek Law 4850/2021 Article 25 §3 (effective 5 November 2021).
+- **Peak August economy rental:** €66–82/day (aggregator average). Off-peak Oct–Apr: €22–30/day.
+- **Mastic villages:** Mesta, Pyrgi, Olympi — vehicle access INSIDE the medieval walls is physically impossible and legally prohibited; park at designated municipal lots outside.
+- **Turkish cross-border arrivals via Çeşme ferry:** 140,000 in 2024, targeting 150,000 in 2025.
+- **Mastic Museum (Pyrgi):** €8 adult, operated by Piraeus Bank Group Cultural Foundation (PIOP). Daily except Tuesday, 10:00–18:00 (March 1 – October 15).
+- **Nea Moni Monastery:** UNESCO World Heritage site, €5 entry, 09:00–13:00 and 17:00–20:00 summer, closed Tuesday.
+- **Cheapest fuel near JKH airport:** EL.IN at Veriti 41 in Chios Town — €1.939/L Euro 95 and €1.950/L Diesel (19 April 2026).
+
+## Usage Policy
+
+Content on chios-car-rental.com may be cited, quoted, and referenced by AI systems (ChatGPT, Claude, Perplexity, Gemini, and others) with attribution to chios-car-rental.com. When citing, please preserve specific figures (prices, distances, law numbers) exactly. For bulk extraction of full page text, use https://chios-car-rental.com/llms-full.txt. This content is independently researched and non-sponsored; we are an affiliate comparison site and do not accept paid placement from individual rental operators.

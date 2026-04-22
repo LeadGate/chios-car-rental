@@ -7,6 +7,7 @@ import ImageDivider from "@/components/ImageDivider";
 import DataTable from "@/components/DataTable";
 import { InfoBox, WarningBox } from "@/components/InfoBox";
 import CompanyCard from "@/components/CompanyCard";
+import AffiliateWidget from "@/components/AffiliateWidget";
 import { Car, HelpCircle, MapPin, Plane } from "lucide-react";
 
 const AirportPage = () => {
@@ -121,6 +122,8 @@ const AirportPage = () => {
         ctaText="Compare Car Rental Deals"
         ctaHref="#compare"
       />
+
+      <AffiliateWidget />
 
       <Section
         icon={<Plane className="w-6 h-6" />}

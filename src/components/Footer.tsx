@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const footerLinks = [
+const internalLinks = [
   { label: "Airport", path: "/chios-airport-car-rental" },
   { label: "Driving Tips", path: "/driving-in-chios" },
   { label: "Day Trips", path: "/day-trips-from-chios" },
@@ -11,37 +11,66 @@ const footerLinks = [
   { label: "Privacy Policy", path: "/privacy" },
 ];
 
+const outboundLinks = [
+  { label: "Hellenic Civil Aviation Authority", url: "https://www.ypa.gr/en" },
+  { label: "Hellenic Police (EL.AS)", url: "https://www.astynomia.gr/?lang=en" },
+  { label: "Chios Chamber of Commerce", url: "https://www.chioschamber.gr/" },
+];
+
 const Footer = () => (
   <footer className="bg-foreground text-primary-foreground" role="contentinfo">
     <div className="container py-12">
-      <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-8">
+      <div className="grid gap-8 md:grid-cols-4">
         <div>
-          <Link to="/" className="text-xl font-bold">
+          <Link to="/" className="text-xl font-bold block mb-3">
             Chios Car Rental
           </Link>
-        </div>
-        <div className="flex flex-wrap gap-x-6 gap-y-2">
-          {footerLinks.map((link) => (
-            <Link
-              key={link.path}
-              to={link.path}
-              className="text-sm opacity-80 hover:opacity-100 transition-opacity min-h-[44px] inline-flex items-center"
-            >
-              {link.label}
-            </Link>
-          ))}
-        </div>
-      </div>
-      <div className="mt-8 pt-6 border-t border-primary-foreground/20 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 text-sm opacity-70">
-        <div className="flex flex-col gap-1">
-          <p>&copy; {new Date().getFullYear()} chios-car-rental.com</p>
-          <p>
+          <p className="text-sm opacity-80">
             <a href="mailto:info@chios-car-rental.com" className="hover:opacity-100 transition-opacity">
               info@chios-car-rental.com
             </a>
           </p>
         </div>
+        <div>
+          <h3 className="text-sm font-semibold uppercase tracking-wider mb-3 opacity-80">Pages</h3>
+          <ul className="space-y-2">
+            {internalLinks.map((link) => (
+              <li key={link.path}>
+                <Link to={link.path} className="text-sm opacity-80 hover:opacity-100 transition-opacity">
+                  {link.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 className="text-sm font-semibold uppercase tracking-wider mb-3 opacity-80">Trusted Sources</h3>
+          <ul className="space-y-2">
+            {outboundLinks.map((link) => (
+              <li key={link.url}>
+                <a
+                  href={link.url}
+                  rel="nofollow noopener"
+                  target="_blank"
+                  className="text-sm opacity-80 hover:opacity-100 transition-opacity"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 className="text-sm font-semibold uppercase tracking-wider mb-3 opacity-80">Affiliate disclosure</h3>
+          <p className="text-xs opacity-70 leading-relaxed">
+            chios-car-rental.com is an independent Chios car rental comparison. We earn commissions on partner bookings; prices you see are the same prices the partner charges all customers, and we never accept paid placement from local operators.
+          </p>
+        </div>
+      </div>
+
+      <div className="mt-10 pt-6 border-t border-primary-foreground/20 flex flex-col gap-2 text-sm opacity-70">
         <p>Last updated: April 2026</p>
+        <p>&copy; {new Date().getFullYear()} chios-car-rental.com</p>
       </div>
     </div>
   </footer>

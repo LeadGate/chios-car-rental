@@ -7,6 +7,7 @@ import ImageDivider from "@/components/ImageDivider";
 import DataTable from "@/components/DataTable";
 import { InfoBox, WarningBox } from "@/components/InfoBox";
 import CompanyCard from "@/components/CompanyCard";
+import AffiliateWidget from "@/components/AffiliateWidget";
 import { Car, Shield } from "lucide-react";
 
 const DrivingGuide = () => {
@@ -65,6 +66,8 @@ const DrivingGuide = () => {
         ctaText="Compare Car Rental Deals"
         ctaHref="#compare"
       />
+
+      <AffiliateWidget />
 
       <Section
         icon={<Car className="w-6 h-6" />}
