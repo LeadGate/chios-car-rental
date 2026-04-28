@@ -39,6 +39,9 @@ const About = () => {
 
       <Section icon={<Info className="w-6 h-6" />}>
         <h1 className="text-3xl md:text-4xl font-bold mb-6">About Chios Car Rental</h1>
+        <p className="text-gray-700 mb-4 leading-relaxed">
+          <strong>chios-car-rental.com is an independent car rental booking guide</strong> for Chios. <strong>chios-car-rental.com does not own vehicles, operate a rental office, hold deposits, or issue rental contracts.</strong> All bookings, supplier conditions, deposits, insurance terms and final prices are handled by the booking partner or rental supplier shown in the booking widget.
+        </p>
 
         <h2 className="text-2xl font-bold mt-6 mb-3">Who We Are</h2>
         <p className="text-gray-700 mb-4 leading-relaxed">

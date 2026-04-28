@@ -19,6 +19,9 @@ const outboundLinks = [
 
 const Footer = () => (
   <footer className="bg-foreground text-primary-foreground" role="contentinfo">
+      <p className="text-xs opacity-60 leading-relaxed mb-4 px-4 max-w-4xl mx-auto">
+        chios-car-rental.com is an independent car rental guide. We may earn a commission when you book through partner links or the booking widget. Final prices, availability, deposits, insurance terms and supplier conditions are provided by the booking partner or rental supplier.
+      </p>
     <div className="container py-12">
       <div className="grid gap-8 md:grid-cols-4">
         <div>
