@@ -17,7 +17,8 @@ const Header = () => {
   const location = useLocation();
 
   return (
-    <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border" aria-label="Main navigation">
+    <>
+      <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border" aria-label="Main navigation">
       <div className="container flex items-center justify-between h-16">
         <Link to="/" className="text-xl font-bold text-primary">
           Chios Car Rental
@@ -51,6 +52,7 @@ const Header = () => {
       </div>
 
       {/* Mobile menu */}
+      </nav>
       {open && (
         <div className="md:hidden fixed inset-0 top-16 z-40 bg-background" role="dialog" aria-label="Mobile navigation">
           <nav className="flex flex-col p-6 gap-1" aria-label="Mobile navigation links">
@@ -70,7 +72,7 @@ const Header = () => {
           </nav>
         </div>
       )}
-    </nav>
+    </>
   );
 };
 
