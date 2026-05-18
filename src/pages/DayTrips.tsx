@@ -116,7 +116,7 @@ const DayTrips = () => {
       <SEOHead
         title="Chios Mastic Villages Driving Itinerary | Chios Car Rental"
         description="Planning a self-drive Chios day trip through the Mastichochoria means you can link Armolia, Kalamoti, Pyrgi, Olympi, and Mesta in one southern loop"
-        canonical="https://chios-car-rental.com/day-trips-from-chios"
+        canonical="https://chios-car-rental.com/day-trips-from-chios/"
         jsonLd={[breadcrumbSchema, faqSchema]}
       />
 
@@ -161,7 +161,7 @@ const DayTrips = () => {
           <CompanyCard><p><strong>Pyrgi:</strong> The village has perimeter parking near the historic centre, and the walk in is short enough for a quick photo stop or museum-linked visit.</p></CompanyCard>
           <CompanyCard><p><strong>Olympi:</strong> Parking is also outside the settlement, which makes the village manageable even on a busy summer day.</p></CompanyCard>
           <WarningBox><p>⚠️ <strong>Warning:</strong> If a rental car is damaged while trying to squeeze into a historic alleyway, the claim can be treated as driver negligence, and standard CDW or even SCDW may still leave an excess/deductible, franchise, or blocked preauthorisation on the card unless the booking includes true full coverage or zero excess.</p></WarningBox>
-          <p className="text-gray-700 mb-4 leading-relaxed">For island-wide line-marking and fuel-planning details, see <a href="/parking-and-fuel-guide" className="text-primary underline hover:text-accent">parking and fuel in Chios</a>, which also helps with EL.IN Veriti 41, EKO Kontari, Leoforos Enoseos Independent, and Kalouta 16 Independent.</p>
+          <p className="text-gray-700 mb-4 leading-relaxed">For island-wide line-marking and fuel-planning details, see <a href="/parking-and-fuel-guide/" className="text-primary underline hover:text-accent">parking and fuel in Chios</a>, which also helps with EL.IN Veriti 41, EKO Kontari, Leoforos Enoseos Independent, and Kalouta 16 Independent.</p>
       </Section>
 
       <ImageDivider src="/3.webp" alt="Chios car rental" />
@@ -183,7 +183,7 @@ const DayTrips = () => {
       >
           <p className="text-gray-700 mb-4 leading-relaxed">Anavatos is not part of the southern mastic-village circuit, and it works best as a separate mountain excursion from the central part of Chios. The cliffside village sits near the Avgonyma road, and the drive is steeper and tighter than the southern loop, which is why many visitors pair Anavatos with Nea Moni rather than with Mesta or Pyrgi.</p>
           <DataTable headers={["Stop", "Distance from Chios Town", "Drive Time", "Best paired with", "Difficulty"]} rows={[["Anavatos", "25 km", "about 40 min", "Nea Moni", "Steep, narrow mountain road with blind bends"], ["Nea Moni", "inland central Chios", "add-on", "Anavatos", "UNESCO-listed monastery stop"], ["Avgonyma", "mountain village detour", "add-on", "Nea Moni", "Useful lunch or coffee stop"], ["Volissos", "northwestern Chios", "separate half-day", "Pelineon mountain range", "Better as a north-island route than a mastic-village add-on"]]} />
-          <p className="text-gray-700 mb-4 leading-relaxed">For mountain-road planning and route confidence, <a href="/driving-in-chios" className="text-primary underline hover:text-accent">Chios driving essentials</a> is the best companion page, especially if you are considering a B compact car versus a taller F SUV or R 4×4.</p>
+          <p className="text-gray-700 mb-4 leading-relaxed">For mountain-road planning and route confidence, <a href="/driving-in-chios/" className="text-primary underline hover:text-accent">Chios driving essentials</a> is the best companion page, especially if you are considering a B compact car versus a taller F SUV or R 4×4.</p>
           <WarningBox><p>⚠️ <strong>Warning:</strong> Do not mix Anavatos into a full Mastichochoria day if you are short on daylight, because the central mountain roads add time and the route is better treated as a separate itinerary.</p></WarningBox>
       </Section>
 
@@ -204,7 +204,7 @@ const DayTrips = () => {
         title="Can this itinerary fit around a ferry or flight?"
       >
           <p className="text-gray-700 mb-4 leading-relaxed">Yes: a same-day departure can work if your rental pickup and drop-off are timed around the airport or ferry terminal, but you should keep a buffer for traffic and inspection time. Chios is served by ferries such as Blue Star Ferries, Turyol, Sunrise Lines, and Erturk Lines, and by flights through <strong>Omiros</strong> Airport, JKH (ICAO: LGHI), which is managed by the Hellenic Civil Aviation Authority (HCAA) on a 1,511 m runway suitable for Airbus A320 operations.</p>
-          <p className="text-gray-700 mb-4 leading-relaxed">For arrivals by air, <a href="/chios-airport-car-rental" className="text-primary underline hover:text-accent">Chios airport car rental</a> is the best planning page; for departures by road, the current Chios rules in <a href="/driving-in-chios" className="text-primary underline hover:text-accent">Chios driving essentials</a> help with speed limits and return timing.</p>
+          <p className="text-gray-700 mb-4 leading-relaxed">For arrivals by air, <a href="/chios-airport-car-rental/" className="text-primary underline hover:text-accent">Chios airport car rental</a> is the best planning page; for departures by road, the current Chios rules in <a href="/driving-in-chios/" className="text-primary underline hover:text-accent">Chios driving essentials</a> help with speed limits and return timing.</p>
           <InfoBox><p>💡 <strong>Tip:</strong> If you are collecting a car after landing at JKH, choose a small A1 mini or B compact class for easier village parking unless you specifically need an F SUV or R 4×4 for a mountain add-on.</p></InfoBox>
       </Section>
 

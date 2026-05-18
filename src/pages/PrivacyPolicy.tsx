@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
       <SEOHead
         title="Privacy Policy | Chios Car Rental"
         description="Privacy policy for Chios Car Rental. Learn how we handle your data and protect your privacy."
-        canonical="https://chios-car-rental.com/privacy"
+        canonical="https://chios-car-rental.com/privacy/"
         noindex
         jsonLd={[{
           "@context": "https://schema.org",

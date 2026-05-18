@@ -40,7 +40,7 @@ const Contact = () => {
       <SEOHead
         title="Contact Chios Car Rental | Get in Touch"
         description="Have a question about car rental in Chios? Contact Chios Car Rental for assistance."
-        canonical="https://chios-car-rental.com/contact"
+        canonical="https://chios-car-rental.com/contact/"
         jsonLd={[{ "@context": "https://schema.org", "@type": "WebPage", "name": "Contact Chios Car Rental", "url": "https://chios-car-rental.com/contact" }]}
       />
 
@@ -62,7 +62,7 @@ const Contact = () => {
           </div>
 
           <div className="rounded-lg bg-muted p-4 text-sm text-muted-foreground space-y-1">
-            <p><strong className="text-foreground">Please note:</strong> We are an independent information website, not a car rental company. We cannot make bookings or modify existing reservations. For quick answers, see <a href="/chios-car-rental-faq" className="text-primary underline hover:text-accent">our Chios car rental FAQ</a> or read the <a href="/driving-in-chios" className="text-primary underline hover:text-accent">driving essentials guide</a> before your trip.</p>
+            <p><strong className="text-foreground">Please note:</strong> We are an independent information website, not a car rental company. We cannot make bookings or modify existing reservations. For quick answers, see <a href="/chios-car-rental-faq/" className="text-primary underline hover:text-accent">our Chios car rental FAQ</a> or read the <a href="/driving-in-chios/" className="text-primary underline hover:text-accent">driving essentials guide</a> before your trip.</p>
           </div>
 
           {submitted ? (

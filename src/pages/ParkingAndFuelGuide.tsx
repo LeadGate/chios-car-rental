@@ -58,7 +58,7 @@ const ParkingAndFuelGuide = () => {
       <SEOHead
         title="Chios Parking & Fuel Guide 2026 | Chios Car Rental"
         description="Chios parking and fuel costs are easiest to control when you plan around three facts: Chios Town tickets are concentrated near the port and Aplotaria,"
-        canonical="https://chios-car-rental.com/parking-and-fuel-guide"
+        canonical="https://chios-car-rental.com/parking-and-fuel-guide/"
         jsonLd={[breadcrumbSchema, articleSchema]}
       />
 
@@ -163,7 +163,7 @@ const ParkingAndFuelGuide = () => {
             <li><strong>Chios Mastic Museum near Pyrgi:</strong> This modern site has a proper parking lot, making it a convenient cultural stop before or after the villages.</li>
             <li><strong>Nea Moni monastery:</strong> The unpaved parking area near the entrance fills early, especially when tour buses arrive before 09:30.</li>
           </ul>
-          <p className="text-gray-700 mb-4 leading-relaxed">Parking illegally in protected settlements can lead to fines and immediate inconvenience, so the best route is to plan a village loop that starts from Chios Town or Karfas and ends at the western coast around Avgonyma, Anavatos, Volissos, or Mavra Volia. For route planning and road-surface advice, compare this page with <a href="/driving-in-chios" className="text-primary underline hover:text-accent">Chios driving essentials</a> and the broader <a href="/chios-airport-car-rental" className="text-primary underline hover:text-accent">airport car rental guide</a>.</p>
+          <p className="text-gray-700 mb-4 leading-relaxed">Parking illegally in protected settlements can lead to fines and immediate inconvenience, so the best route is to plan a village loop that starts from Chios Town or Karfas and ends at the western coast around Avgonyma, Anavatos, Volissos, or Mavra Volia. For route planning and road-surface advice, compare this page with <a href="/driving-in-chios/" className="text-primary underline hover:text-accent">Chios driving essentials</a> and the broader <a href="/chios-airport-car-rental/" className="text-primary underline hover:text-accent">airport car rental guide</a>.</p>
           <InfoBox><p>💡 <strong>Tip:</strong> If you want culture as well as parking certainty, combine Nea Moni with the Piraeus Bank Group Cultural Foundation (PIOP) references for Chios heritage, then continue to Avgonyma or Mavra Volia before returning to town.</p></InfoBox>
       </Section>
 
