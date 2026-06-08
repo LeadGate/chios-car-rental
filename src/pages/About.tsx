@@ -12,27 +12,6 @@ const About = () => {
         title="About Chios Car Rental — Our Sources and Methods"
         description="How Chios Car Rental researches Greek Law 4850/2021, Law 5209/2025, HCAA airport operations, local fuel prices, and operator policies to compare Chios rentals honestly."
         canonical="https://chios-car-rental.com/about/"
-        jsonLd={[
-          {
-            "@context": "https://schema.org",
-            "@type": "AboutPage",
-            "name": "About Chios Car Rental",
-            "url": "https://chios-car-rental.com/about",
-            "publisher": {
-              "@type": "Organization",
-              "name": "Chios Car Rental",
-              "url": "https://chios-car-rental.com",
-            },
-          },
-          {
-            "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://chios-car-rental.com/" },
-              { "@type": "ListItem", "position": 2, "name": "About", "item": "https://chios-car-rental.com/about" },
-            ],
-          },
-        ]}
       />
 
       <Breadcrumbs items={[{ label: "About" }]} />

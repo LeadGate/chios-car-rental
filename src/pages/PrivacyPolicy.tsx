@@ -12,12 +12,6 @@ const PrivacyPolicy = () => {
         description="Privacy policy for Chios Car Rental. Learn how we handle your data and protect your privacy."
         canonical="https://chios-car-rental.com/privacy/"
         noindex
-        jsonLd={[{
-          "@context": "https://schema.org",
-          "@type": "WebPage",
-          "name": "Privacy Policy | Chios Car Rental",
-          "url": "https://chios-car-rental.com/privacy"
-        }]}
       />
 
       <Breadcrumbs items={[{ label: "Privacy Policy" }]} />

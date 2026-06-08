@@ -41,7 +41,6 @@ const Contact = () => {
         title="Contact Chios Car Rental | Get in Touch"
         description="Have a question about car rental in Chios? Contact Chios Car Rental for assistance."
         canonical="https://chios-car-rental.com/contact/"
-        jsonLd={[{ "@context": "https://schema.org", "@type": "WebPage", "name": "Contact Chios Car Rental", "url": "https://chios-car-rental.com/contact" }]}
       />
 
       <Section>

@@ -53,7 +53,6 @@ const DrivingGuide = () => {
         title="Your Expert Guide to Driving on Chios | Chios Car Rental"
         description="Driving on Chios in 2025 is governed by Greece’s new Highway Code, Law 5209/2025, while licence eligibility still follows Law 4850/2021, Article 25 §3 for"
         canonical="https://chios-car-rental.com/driving-in-chios/"
-        jsonLd={[breadcrumbSchema, faqSchema]}
       />
 
       <Breadcrumbs items={[{ label: "Driving Tips" }]} />

@@ -117,7 +117,6 @@ const DayTrips = () => {
         title="Chios Mastic Villages Driving Itinerary | Chios Car Rental"
         description="Planning a self-drive Chios day trip through the Mastichochoria means you can link Armolia, Kalamoti, Pyrgi, Olympi, and Mesta in one southern loop"
         canonical="https://chios-car-rental.com/day-trips-from-chios/"
-        jsonLd={[breadcrumbSchema, faqSchema]}
       />
 
       <Breadcrumbs items={[{ label: "Day Trips" }]} />

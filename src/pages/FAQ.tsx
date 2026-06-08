@@ -123,7 +123,6 @@ const FAQ = () => {
         title="Chios Car Rental FAQ | Chios Car Rental"
         description="Planning to rent a car on Chios usually comes down to four decisions: driving rules, insurance coverage, airport pickup, and where to park in the mastic"
         canonical="https://chios-car-rental.com/chios-car-rental-faq/"
-        jsonLd={[breadcrumbSchema, faqSchema]}
       />
 
       <Breadcrumbs items={[{ label: "FAQ" }]} />
