@@ -97,7 +97,7 @@ const Index = () => {
       <SEOHead
         title="Chios Car Rental — Compare Deals | Chios Car Rental"
         description="Renting a car in Chios is the most practical way to reach the island’s beaches, mountain villages, and monasteries because public buses are limited"
-        canonical="https://chios-car-rental.com"
+        canonical="https://chios-car-rental.com/"
         jsonLd={[breadcrumbSchema, websiteSchema, organizationSchema, faqSchema]}
       />
 
