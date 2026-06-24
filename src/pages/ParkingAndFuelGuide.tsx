@@ -46,7 +46,7 @@ const ParkingAndFuelGuide = () => {
       "url": "https://chios-car-rental.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://chios-car-rental.com/favicon-512x512.png"
+        "url": "https://chios-car-rental.com/favicon-512.png"
       }
     },
     "mainEntityOfPage": "https://chios-car-rental.com/parking-and-fuel-guide",

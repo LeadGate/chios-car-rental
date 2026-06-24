@@ -38,7 +38,7 @@ const Index = () => {
     "@type": "Organization",
     "name": "Chios Car Rental",
     "url": "https://chios-car-rental.com",
-    "logo": "https://chios-car-rental.com/favicon-512x512.png",
+    "logo": "https://chios-car-rental.com/favicon-512.png",
     "description": "Independent car rental comparison guide for Chios. Compare deals from local and international providers.",
     "areaServed": {
       "@type": "Place",
