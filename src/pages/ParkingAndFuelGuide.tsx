@@ -69,7 +69,7 @@ const ParkingAndFuelGuide = () => {
         image="/13.webp"
         imageAlt="Municipal parking lot near Chios Town port with the Blue Star ferry pier behind"
         ctaText="Compare Car Rental Deals"
-        ctaHref="#compare"
+        ctaHref="#compare-cars"
       />
 
       <AffiliateWidget />

@@ -127,7 +127,7 @@ const DayTrips = () => {
         image="/10.webp"
         imageAlt="Medieval xysta geometric facades of Pyrgi village on Chios"
         ctaText="Compare Car Rental Deals"
-        ctaHref="#compare"
+        ctaHref="#compare-cars"
       />
 
       <AffiliateWidget />

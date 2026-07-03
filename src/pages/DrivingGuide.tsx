@@ -63,7 +63,7 @@ const DrivingGuide = () => {
         image="/7.webp"
         imageAlt="Winding mountain road through the Pelineon range on northwestern Chios"
         ctaText="Compare Car Rental Deals"
-        ctaHref="#compare"
+        ctaHref="#compare-cars"
       />
 
       <AffiliateWidget />

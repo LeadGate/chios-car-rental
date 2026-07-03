@@ -107,10 +107,10 @@ const Index = () => {
         image="/1.webp"
         imageAlt="Aerial view of Chios Town harbour at golden hour with mountains in the distance"
         ctaText="Compare Car Rental Deals"
-        ctaHref="#compare"
+        ctaHref="#compare-cars"
       />
 
-      <AffiliateWidget id="compare" />
+      <AffiliateWidget />
 
       <Section
         icon={<DollarSign className="w-6 h-6" />}

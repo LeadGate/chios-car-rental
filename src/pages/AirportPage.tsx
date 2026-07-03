@@ -119,7 +119,7 @@ const AirportPage = () => {
         image="/4.webp"
         imageAlt="Chios Island National Airport Omiros terminal building exterior"
         ctaText="Compare Car Rental Deals"
-        ctaHref="#compare"
+        ctaHref="#compare-cars"
       />
 
       <AffiliateWidget />
