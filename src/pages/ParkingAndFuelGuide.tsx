@@ -56,7 +56,7 @@ const ParkingAndFuelGuide = () => {
   return (
     <Layout>
       <SEOHead
-        title="Chios Parking & Fuel Guide 2026 | Chios Car Rental"
+        title="Chios Parking & Fuel Guide: Save Money, Avoid Fines"
         description="Chios parking and fuel costs are easiest to control when you plan around three facts: Chios Town tickets are concentrated near the port and Aplotaria,"
         canonical="https://chios-car-rental.com/parking-and-fuel-guide/"
       />
