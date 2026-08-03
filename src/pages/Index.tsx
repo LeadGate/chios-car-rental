@@ -24,81 +24,17 @@ const Index = () => {
     ]
   };
 
-  const websiteSchema =
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Chios Car Rental",
-    "url": "https://chios-car-rental.com"
-  };
-
-  const organizationSchema =
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Chios Car Rental",
-    "url": "https://chios-car-rental.com",
-    "logo": "https://chios-car-rental.com/favicon-512.png",
-    "description": "Independent car rental comparison guide for Chios. Compare deals from local and international providers.",
-    "areaServed": {
-      "@type": "Place",
-      "name": "Chios"
-    },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "email": "info@chios-car-rental.com",
-      "url": "https://chios-car-rental.com/contact"
-    }
-  };
-
-  const faqSchema =
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How Much Does Car Rental Cost in Chios?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Chios car rental prices vary by season, transmission, and insurance bundle, and the most useful comparison is a rate with CDW included versus a rate with full coverage or zero excess. In 2025, economy cars in Chios often start near €22/day in shoulder months and rise to about €55–€70/day in August, while airport desks and local suppliers such as SMART Rent A Car, Aegean Atsalis, Kampas Rent A Car, and Masticars can quote higher weekend rates when availability tightens. Rental companies in Chios usually preauthorise the security deposit on a credit card, and the amount can vary with the vehicle class and the insurer’s policy. Basic CDW generally reduces the franchise, SCDW can lower the excess further, and FDW or a written full coverage add-on can remove most damage liability if the rental contract says so. For comparison and booking, check [airport pickup and insurance rules](/chios-airport-car-rental) and [parking, fuel, and refill basics](/parking-and-fuel-chios)."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Where Can I Pick Up a Rental Car in Chios?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Chios rentals are concentrated around the airport, the main port, and selected hotel zones, and each pickup point has a different company mix and handover process. If you are planning around ferry or flight timing, the practical options are Chios Airport JKH, Chios Town Port, Mesta Port, hotel delivery in the Kampos district, and village delivery for destinations such as Karfas, Vrontados, Volissos, and Nea Moni access roads. Chios Airport is the island’s main arrival hub, and the HCAA manages the terminal where international desks for Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, and Goldcar operate alongside local representatives from SMART Rent A Car, Aegean Atsalis, Kampas Rent A Car, and Masticars. The runway is 1,511 m long, which is why aircraft such as the Airbus A320 are commonly associated with regular service patterns, and the airport sits close enough to Chios Town that many handovers happen within minutes of landing. For a step-by-step arrival plan, use [the airport pickup guide](/chios-airport-car-rental). Blue Star Ferries connects Chios Town with Piraeus on overnight sailings, and local agencies can meet passengers at the disembarkation area if the booking includes the ferry name and ETA. This arrangement is easiest for travelers who want to continue straight to the Kampos district, Vrontados, or the southern villages without waiting for an office transfer. Mesta Port receives services from Turyol, Sunrise Lines, and Erturk Lines on selected schedules, and rental handover here is usually prearranged because no permanent airport-style counter operates at the terminal. Cars are typically delivered for onward use to Mesta, Pyrgi, Olympi, Kalamoti, Armolia, and the wider Mastichochoria area. Hotel delivery is common in Karfas, Kampos district, Vrontados, Volissos, and beach areas near Mavra Volia, and suppliers often charge a delivery fee instead of a walk-in counter surcharge. The local operator and the delivery window should be confirmed on the voucher before arrival, especially during August."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Who Rents Cars on Chios?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The Chios car rental market includes global brands, national chains, and island operators, and each company type brings a different balance of price, deposit size, and insurance flexibility. On-airport desks are commonly staffed by Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, and Goldcar, while local businesses such as SMART Rent A Car, Aegean Atsalis, Kampas Rent A Car, and Masticars often focus on hotel delivery and island-wide handover. Local firms may accept debit cards with a higher preauthorisation, but most rental contracts still prefer a credit card because the deposit is blocked rather than charged. For consumers who want an official complaint path, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr, the Chios Chamber of Commerce, and the GNTO at visitgreece.gr are relevant reference points if a booking dispute escalates."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What Should You Know Before Driving in Chios?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Driving in Chios is manageable for most visitors, but the island combines narrow mountain roads, village access restrictions, and changing legal rules that are worth checking before departure. Greek Law 5209/2025 sets a 30 km/h default in single-lane urban streets, while Law 4850/2021 affects which foreign licences are accepted without an IDP, so the legal details matter as much as the route choice. For route planning, parking, and petrol stops, read [Chios driving essentials](/chios-driving-essentials) and use [parking and fuel locations](/parking-and-fuel-chios) to avoid low-fuel detours."
-        }
-      }
-    ]
-  };
-
+  // WebSite, Organization и FAQPage для главной уже статически лежат в index.html
+  // (он же — dist/index.html главной). Дублировать их здесь нельзя: SEOHead
+  // навешивает свои копии при гидратации, и рендерящие движки видят по два блока
+  // каждого типа. Единственный источник этих трёх схем — index.html.
   return (
     <Layout>
       <SEOHead
         title="Chios Car Rental — Compare Deals | Chios Car Rental"
         description="Renting a car in Chios is the most practical way to reach the island’s beaches, mountain villages, and monasteries because public buses are limited"
         canonical="https://chios-car-rental.com/"
-        jsonLd={[breadcrumbSchema, websiteSchema, organizationSchema, faqSchema]}
+        jsonLd={[breadcrumbSchema]}
       />
 
       <HeroSection

@@ -121,13 +121,16 @@
     }
   },
   "/about/": {
-    "title": "About Chios Car Rental — Our Sources and Methods"
+    "title": "About Chios Car Rental — Our Sources and Methods",
+    "description": "How Chios Car Rental researches Greek Law 4850/2021, Law 5209/2025, HCAA airport operations, local fuel prices, and operator policies to compare Chios rentals honestly."
   },
   "/contact/": {
-    "title": "Contact Chios Car Rental | Get in Touch"
+    "title": "Contact Chios Car Rental | Get in Touch",
+    "description": "Contact Chios Car Rental, an independent comparison guide. Email us about JKH airport pickup, insurance terms, deposits, or driving rules on Chios."
   },
   "/privacy/": {
-    "title": "Privacy Policy | Chios Car Rental"
+    "title": "Privacy Policy | Chios Car Rental",
+    "description": "Privacy policy for Chios Car Rental: what data the site collects, how cookies and the affiliate booking widget work, and how to contact us about it."
   },
   "/rental-car-on-ferry-from-chios/": {
     "article": {

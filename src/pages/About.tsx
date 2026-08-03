@@ -3,6 +3,7 @@ import SEOHead from "@/components/SEOHead";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Section from "@/components/Section";
 import DataTable from "@/components/DataTable";
+import ImageDivider from "@/components/ImageDivider";
 import { Info } from "lucide-react";
 
 const About = () => {
@@ -31,6 +32,11 @@ const About = () => {
         <p className="text-gray-700 mb-4 leading-relaxed">
           We cross-reference Greek legislation directly: <strong>Law 4850/2021</strong> (International Driving Permit exemption for USA, Canada, UK, Australia, and Gibraltar licences) and <strong>Law 5209/2025</strong> (new Highway Code effective Autumn 2025, introducing the 30 km/h urban single-lane limit and stepped fines up to €4,000 for repeat DUI). We verify airport operational details with the <strong>Hellenic Civil Aviation Authority (HCAA)</strong>, which directly administers JKH — correcting the widespread misconception that JKH is Fraport-managed. We cite the <strong>Hellenic Police (EL.AS)</strong> and the <strong>Ministry of Infrastructure and Transport (YPOMEDI)</strong> for every traffic-fine schedule. Fuel prices are cross-checked weekly against station data from Chios Town (EL.IN on Veriti 41, EKO on Kontari near the airport) and the national <a href="https://www.fuel-prices.eu/Greece/" rel="nofollow" className="text-primary underline hover:text-accent">fuel-prices.eu</a> dataset. Ferry schedules come from Blue Star Ferries direct publications plus independent verification via Ferryhopper and Direct Ferries. For a worked example of this methodology applied to road rules, see <a href="/driving-in-chios/" className="text-primary underline hover:text-accent">Chios driving essentials</a>.
         </p>
+
+        <ImageDivider
+          src="/5.webp"
+          alt="Aircraft on the apron at Chios Island National Airport Omiros (JKH), where we verify rental pickup details"
+        />
 
         <h2 className="text-2xl font-bold mt-8 mb-3">What We Cover</h2>
         <DataTable

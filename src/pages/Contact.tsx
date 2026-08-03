@@ -39,7 +39,7 @@ const Contact = () => {
     <Layout>
       <SEOHead
         title="Contact Chios Car Rental | Get in Touch"
-        description="Have a question about car rental in Chios? Contact Chios Car Rental for assistance."
+        description="Contact Chios Car Rental, an independent comparison guide. Email us about JKH airport pickup, insurance terms, deposits, or driving rules on Chios."
         canonical="https://chios-car-rental.com/contact/"
       />
 
