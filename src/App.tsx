@@ -7,6 +7,7 @@ const DrivingGuide = lazy(() => import("./pages/DrivingGuide"));
 const DayTrips = lazy(() => import("./pages/DayTrips"));
 const ParkingAndFuelGuide = lazy(() => import("./pages/ParkingAndFuelGuide"));
 const FAQ = lazy(() => import("./pages/FAQ"));
+const RentalCarFerry = lazy(() => import("./pages/RentalCarFerry"));
 const About = lazy(() => import("./pages/About"));
 const Contact = lazy(() => import("./pages/Contact"));
 const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicy"));
@@ -31,6 +32,7 @@ const App = () => (
             <Route path="/day-trips-from-chios" element={<DayTrips />} />
             <Route path="/parking-and-fuel-guide" element={<ParkingAndFuelGuide />} />
             <Route path="/chios-car-rental-faq" element={<FAQ />} />
+            <Route path="/rental-car-on-ferry-from-chios" element={<RentalCarFerry />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/privacy" element={<PrivacyPolicy />} />

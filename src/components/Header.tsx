@@ -8,6 +8,7 @@ const navLinks = [
   { label: "Day Trips", path: "/day-trips-from-chios" },
   { label: "Parking & Fuel", path: "/parking-and-fuel-guide" },
   { label: "FAQ", path: "/chios-car-rental-faq" },
+  { label: "Car on Ferry", path: "/rental-car-on-ferry-from-chios" },
   { label: "About", path: "/about" },
   { label: "Contact", path: "/contact" },
 ];

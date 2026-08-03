@@ -59,6 +59,7 @@ const HERO_BY_SLUG = {
   "/day-trips-from-chios": "/10.webp",
   "/parking-and-fuel-guide": "/13.webp",
   "/chios-car-rental-faq": "/16.webp",
+  "/rental-car-on-ferry-from-chios": "/rental-car-ferry-chios-hero.webp",
 };
 function resolveHero(slug) {
   return HERO_BY_SLUG[slug.replace(/\/$/, '') || '/'] || null;
@@ -225,6 +226,14 @@ function patchHead(html, { slug, canonical, title, description, cfg, heroHref })
         })),
       };
       blocks.push(`    <script type="application/ld+json">\n${JSON.stringify(faqPage, null, 2)}\n    </script>`);
+    }
+    if (Array.isArray(cfg.extraSchemas) && cfg.extraSchemas.length > 0) {
+      for (const raw of cfg.extraSchemas) {
+        const s = raw && raw['@context'] ? raw : { '@context': 'https://schema.org', ...raw };
+        blocks.push(`    <script type="application/ld+json">
+${JSON.stringify(s, null, 2)}
+    </script>`);
+      }
     }
     if (blocks.length) {
       html = html.replace(/<\/head>/, `${blocks.join('\n')}\n  </head>`);

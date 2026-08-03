@@ -6,6 +6,7 @@ const internalLinks = [
   { label: "Day Trips", path: "/day-trips-from-chios" },
   { label: "Parking & Fuel", path: "/parking-and-fuel-guide" },
   { label: "FAQ", path: "/chios-car-rental-faq" },
+  { label: "Car on Ferry", path: "/rental-car-on-ferry-from-chios" },
   { label: "About", path: "/about" },
   { label: "Contact", path: "/contact" },
   { label: "Privacy Policy", path: "/privacy" },
@@ -69,7 +70,7 @@ const Footer = () => (
       </div>
 
       <div className="mt-10 pt-6 border-t border-primary-foreground/20 flex flex-col gap-2 text-sm opacity-70">
-        <p>Last updated: May 2026</p>
+        <p>Last updated: August 2026</p>
         <p>&copy; {new Date().getFullYear()} chios-car-rental.com</p>
       </div>
     </div>
