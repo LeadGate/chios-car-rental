@@ -2,7 +2,7 @@
 
 > Independent car rental comparison for Chios island, Greece. Covers JKH airport pickup, Greek driving law 5209/2025, parking rules, mastic villages, and operator policies.
 
-Last updated: 2026-04-22
+Last updated: 2026-08-03
 
 ---
 
@@ -982,3 +982,100 @@ All legitimate car rental operators on the island are registered with the Chios 
 
 
 ---
+
+---
+
+## Rental Car on the Ferry From Chios
+
+URL: https://chios-car-rental.com/rental-car-on-ferry-from-chios/
+
+
+
+# Taking a Rental Car on the Ferry From Chios: Turkey, Piraeus, and the Other Islands
+
+**Fares last verified: August 2026**
+
+## Short answer first
+
+If you rented a car on Chios and want to put it on a ferry, the answer depends entirely on where you're going. To Greek destinations — Piraeus, Lesvos, Psara, Oinousses — it is possible, but only with your rental company's prior written permission and, in most cases, the purchase of a Ferry Boat Cover. To Çeşme, Turkey, the ferry company will happily sell you a vehicle ticket, but the trip is effectively closed: Turkish customs law requires a notarized power of attorney from the car's registered owner (the rental company), and Chios rental firms do not issue one. The ferry ticket exists; the paperwork to legally drive the car off the boat in Turkey does not. For most travellers wanting to see Çeşme, the practical move is to cross as a foot passenger and rent a separate car on the Turkish side. For domestic island-hopping with your Chios rental car, get the sign-off in writing before you drive onto the ramp — verbal assurances from a desk clerk are not the same as a notarized or written authorization, and the insurance consequences of skipping that step are severe.
+
+## The five routes off Chios — decision table
+
+This table merges four things that live in four different places — the ferry operator's tariff sheet, the rental contract's cross-border clause, Turkish customs law, and which vessels physically carry cars — into one column that answers the only question that matters: can you actually do this.
+
+| Route | Ferry operators that carry cars | Car fare (one way) | What your rental contract requires | Practical verdict |
+|---|---|---|---|---|
+| Chios → Çeşme (Turkey) | Ertürk Lines (conventional Ro-Ro only), Turyol's *Chios* ferry | €100 (Ertürk, verified); ~€110 (Turyol, secondary source) | Notarized authorization from the rental company, per Ertürk's own General Rules ("For rental vehicles traveling abroad, a notarized authorization must be obtained from the rental company") | Effectively impossible — Chios rental firms do not issue this notarized authorization |
+| Chios → Piraeus | Blue Star Ferries | ~€81.50 (derived from a live 2-adult + 1-car search totalling €159.50, minus 2×€39 adult fare — an approximate component, not a quoted car tariff) | Prior written approval + Ferry Boat Cover (€20/day, capped €60/rental) per Autohellas Hertz terms | Possible with written permission + ferry cover, booked well ahead in August |
+| Chios → Lesvos (Mytilene) | Domestic Greek ferry operators (aggregator data) | ~€45–65 (estimate) | Same written-permission + ferry-cover requirement applies | Possible with written permission + ferry cover |
+| Chios → Psara | Small local ferry and larger Blue Star vessel (aggregator data) | ~€20–27 (local ferry) or €39–49 (Blue Star) (estimates) | Same written-permission + ferry-cover requirement applies | Possible with written permission; sailings only 1–3 days/week, plan around the schedule |
+| Chios → Oinousses | Domestic Greek ferry operators (aggregator data) | ~€30–38 (estimate) | Same written-permission + ferry-cover requirement applies | Possible with written permission; only a few weekly sailings |
+
+The Ertürk figure comes directly from the operator's published tariff sheet, so treat it as firm. The Piraeus car figure of ~€81.50 is derived by subtracting two adult fares from a total multi-passenger-plus-vehicle quote, so treat it as an approximate component rather than a quoted car-only tariff. The Lesvos, Psara, and Oinousses figures come from aggregator data rather than a single operator price list, so treat them as ranges, not quotes.
+
+## Why Turkey is effectively closed to a Chios rental car
+
+Three independent requirements stack on top of each other, and any single one that fails ends the trip.
+
+**First, the rental contract itself.** Autohellas Hertz — which operates rental desks across Greece, including the islands — states in its own terms: "ACROSS THE BORDER RENTALS: Allowed only with the prior written agreement with Autohellas Hertz," and separately, "FERRY TRANSPORTATION: Allowed only with the prior written approval of Autohellas Hertz and provided that the renter has accepted the Ferry Boat Cover." A rental company has to actively agree to an international crossing, not just a ferry crossing, before Turkey even becomes a possibility.
+
+**Second, Turkish customs law.** Under Turkish Customs Law No. 4458's temporary-import regime, a foreign-plated vehicle can enter Turkey, but the driver must have lived outside Turkey for at least 185 days in the preceding year, and the temporary-import permit for a personal vehicle is capped at 180 days — with a rented car's permit unable to extend past the rental agreement's own end date. On top of that, Turkey's Anti-Smuggling Law No. 5607, Section 3/9, restricts who may drive a foreign-plated car: only the registered owner or someone holding explicit legal authorization from that owner. For a rental car, "the owner" is the leasing company, not the tourist behind the wheel.
+
+**Third, the paperwork at the port.** Ertürk Lines' own rules require, for a rental vehicle travelling abroad, a notarized authorization from the rental company. Arriving at Çeşme with a Chios rental car means producing the original registration document, your passport, a Green Card where the country code TR is not struck through, and a notarized power of attorney (vekaletname) from the Greek rental company, certified by a Turkish consulate in Greece or a Turkish notary. Chios's local operators — none of whose public rental terms mention a ferry or cross-border clause at all — are not in the business of issuing consulate-certified authorizations for a single one-day rental. The ferry sells the ticket; the authorization never materializes. That is the whole reason the crossing does not happen in practice, even though nothing at the port itself is technically forbidden.
+
+For general road rules once you do have a car on Chios, see the [driving in Chios guide](/driving-in-chios/).
+
+## What the ferry actually costs with a car
+
+On the Çeşme route, Ertürk Lines' published price list (verified on erturk.com.tr) lists: adult passenger €40 one way / €50 return; and a car — the price list lists two size categories, under 4.25 m and over 4.25 m, both carrying the same fare, €100 one way / €150 return. Vessel and vehicle-class limits still apply separately (see the height section below); the equal fare does not mean any vehicle size is accepted. Motorcycles over 250cc run €50 one way / €80 return. A second operator, Turyol, whose conventional ferry *Chios* also carries vehicles, quotes roughly €110 one way / €170 return for a standard car — treat this as a secondary, less firmly verified figure next to Ertürk's own published sheet.
+
+Not every sailing carries cars. Only conventional Ro-Ro ferries do; high-speed catamarans and hydrofoils operated by İDO, Makri Travel, Tilos Travel, and even Ertürk's own fast craft do not. Ertürk's own timetable explicitly marks the *Apostolos S.* sailing as "No Car." Crossing time is 30–50 minutes on the car-carrying conventional ferries versus about 17–20 minutes on the passenger-only catamarans — the fast option only works if you're travelling as a foot passenger. On the Ertürk-operated Çeşme crossing specifically, vehicles must be at the port at least one hour before departure, per Ertürk's own boarding rules — this is Ertürk's stated requirement for its own sailings; nothing in the research indicates Turyol, Blue Star, or the domestic Greek routes apply the same one-hour figure, so check the specific operator's boarding time for those crossings.
+
+One data point worth noting honestly: a traveller online reported seeing a quoted price of €166 total for a car plus two adults one way, and asked whether buying tickets at the harbour in person would work out cheaper — it reads as a price they were quoted or found advertised, not a fare they confirmed paying. At Ertürk's current published direct tariff, that same combination comes to €180 (€100 car + 2 × €40 adult). The quoted figure sits below today's published fare, so it's either an older or off-peak rate, or a different operator's pricing — we can't say which, and neither should you assume it still applies.
+
+On the Greek side, a live 2026 Ferryhopper search for Chios → Piraeus with 2 adults and 1 car returned €159.50 total, with the adult fare at €39 each, putting the car portion at roughly €81.50 (a derived approximation, not a standalone quoted tariff) for a 6h45m–8h crossing on Blue Star Ferries. Vehicle space in August fills up, so book ahead — see [bluestarferries.com](https://www.bluestarferries.com) for current schedules and the vehicle-deck booking form directly.
+
+## What your rental contract says — and the Ferry Boat Cover
+
+Every ferry crossing with a rental car runs through the contract first, and the wording is consistently strict across Greek operators. Autohellas Hertz requires "the prior written approval of Autohellas Hertz" for ferry transport, and mandates the renter accept the Ferry Boat Cover — €20 per day, capped at €60 per rental — before boarding. Skip that cover and you're personally liable for any damage during the transfer, regardless of whatever other insurance you already paid for.
+
+Aegean Rentals, a Greek island operator based on Crete (not Chios — cited here only as a representative example of standard island-wide wording), states plainly: "Rented cars may not be taken outside the borders of Greece without the prior written consent," "The car may not be embarked on a ship without the prior written consent," and, critically, "If the car is taken off the island, all insurance coverage becomes void." Autounion's terms similarly forbid driving beyond Greek borders altogether.
+
+On Chios itself, local firms including J. Vassilakis & Sons (based at the port in Chios town, near the Chandris and Kyma hotels), Aegean Atsalis (airport and port delivery), and Hatzelenis Rent a Car do not publish a ferry or off-island clause on their public pages at all. That silence is not permission — it means the answer isn't published, and you need it in writing before you drive a rental car anywhere near a vehicle-deck ramp. CDW and theft protection is standard-excluded while a car sits on a ferry deck unless a specific ferry cover has been purchased, no matter which company issued the rental. Compare terms across providers before booking via the [Chios airport car rental page](/chios-airport-car-rental/), and confirm fuel and return conditions on the [parking and fuel guide](/parking-and-fuel-guide/).
+
+## The vehicle height puzzle: 2.20 m, 2.4 m and 3.5 m
+
+Three different height numbers circulate for these routes, and they describe three different things, not a contradiction. Sunrise Lines states a maximum vehicle height of 2.20 m specifically for the *Apostolos S.* — that is one vessel's physical clearance (and, as noted above, that particular sailing is marked "No Car" on Ertürk's own timetable anyway). Separately, consumer booking forms for the Piraeus–Chios route commonly cap the standard "passenger car" category at around 2.4 m, which is the ceiling for the compacted or mezzanine parking decks where ordinary cars are stowed. Blue Star Ferries' general vehicle policy allows up to 3.5 m in height and 10 m in length — but that clearance belongs to the main freight deck, reached only by booking your vehicle under a campervan or light-commercial-vehicle category at a higher tariff, not the standard car rate.
+
+In practice: standard passenger cars are normally well inside the passenger-car booking category (around the 2.4 m ceiling), so most rental sedans and hatchbacks are not affected. The numbers matter mainly for campervans, roof-box-equipped vehicles, and other raised or modified vehicles that may edge toward or past those limits. Arrive with an undeclared vehicle taller than the category you booked, and expect boarding refusal or a forced upgrade charge at the ramp — this has sat as an open, unanswered question on travel forums since around April 2025, and the vessel-versus-category distinction above is the direct answer.
+
+## The practical alternative: cross as a foot passenger
+
+Given the notarized-authorization dead end on the Turkish side, the option the constraints above leave open is straightforward: cross Chios–Çeşme as a foot passenger on either the conventional ferry or one of the faster catamarans (İDO, Makri Travel, Tilos Travel), then rent a separate car from a Turkish agency on arrival. Çeşme is the shortest Turkey–Greece ferry route on the map, at roughly ten nautical miles — a 17–20 minute hop on the fast boats versus 30–50 minutes on the car ferries. Ertürk Lines also notes that passengers travelling to Chios do not need an international driving license, which matters if you're a Turkish visitor planning to rent locally on Chios instead — plan that side of the trip using the [day trips from Chios guide](/day-trips-from-chios/) and the [Chios car rental FAQ](/chios-car-rental-faq/).
+
+## FAQ
+
+**Can I take my Chios rental car to Turkey by ferry?**
+No, not in practice. The ferry company sells the vehicle ticket, but Turkish customs requires a notarized power of attorney from the rental company, certified by a Turkish consulate or notary, and Chios rental firms do not issue this document for standard rentals.
+
+**Can I take my Chios rental car to Piraeus, Lesvos, Psara, or Oinousses?**
+Yes, usually — but only with your rental company's prior written approval and, per operators like Autohellas Hertz, acceptance of a Ferry Boat Cover (€20/day, capped at €60). Get the approval in writing before booking the ferry ticket.
+
+**What does it cost to bring a car on the Chios–Çeşme ferry?**
+Ertürk Lines' published price list lists two car categories — under 4.25 m and over 4.25 m — both carrying the same fare, €100 one way / €150 return, plus €40 one way / €50 return per adult passenger. A secondary source (Turyol) quotes around €110 one way / €170 return, less firmly verified.
+
+**Does the rental company's CDW or theft protection cover the car while it's on the ferry deck?**
+Usually not automatically. CDW and theft protection are standard-excluded while a vehicle sits on a ferry deck unless a specific ferry cover has been purchased separately — confirmed in Autohellas Hertz's own terms. A separate personal travel-insurance policy is a different product entirely, and the operators' and rental terms cited here say nothing about what it would or wouldn't cover — check that directly with your travel insurer.
+
+**Do all ferries between Chios and Çeşme carry cars?**
+No. Only conventional Ro-Ro ferries (Ertürk Lines, Turyol's *Chios*) carry vehicles. High-speed catamarans and hydrofoils — İDO, Makri Travel, Tilos Travel, and Ertürk's own fast craft — are passenger-only; Ertürk's timetable marks the *Apostolos S.* explicitly as "No Car."
+
+**What's the actual height limit for a car on these ferries?**
+It depends which layer you're asking about. Sunrise Lines states 2.20 m as the maximum for the *Apostolos S.* specifically (a sailing that in any case doesn't carry cars). Standard "passenger car" booking categories on the Piraeus route commonly cap around 2.4 m. Blue Star Ferries' general policy allows up to 3.5 m in height, but only under the campervan/light-commercial category at a higher tariff.
+
+**Is it simpler to just rent a car on the Turkish side of the crossing?**
+Given the customs and contract chain that closes the direct route, yes — this is the practical option the constraints leave open. Crossing Çeşme as a foot passenger avoids the notarized-authorization requirement entirely, and Ertürk Lines notes travellers to Chios do not need an international driving license, so the paperwork burden shifts to a normal local rental rather than a cross-border one.
+
+---
+
+*For current schedules and vehicle booking, see [erturk.com.tr](https://www.erturk.com.tr) for the Çeşme crossing and [bluestarferries.com](https://www.bluestarferries.com) for the Piraeus route. Turkish temporary-vehicle-import rules are outlined by Turkey's Ministry of Foreign Affairs at [mfa.gov.tr](https://www.mfa.gov.tr).*
