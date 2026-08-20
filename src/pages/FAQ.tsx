@@ -121,7 +121,7 @@ const FAQ = () => {
     <Layout>
       <SEOHead
         title="Chios Car Rental FAQ: Top 10 Questions Answered"
-        description="Planning to rent a car on Chios usually comes down to four decisions: driving rules, insurance coverage, airport pickup, and where to park in the mastic"
+        description="Answers on CDW excess, IDP requirements, minimum age, Çeşme ferry rules, and Mastichochoria parking, citing Greek Law 4850/2021 and Law 5209/2025."
         canonical="https://chios-car-rental.com/chios-car-rental-faq/"
       />
 

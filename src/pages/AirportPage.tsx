@@ -107,7 +107,7 @@ const AirportPage = () => {
     <Layout>
       <SEOHead
         title="JKH Airport Car Rental Pickup | Chios Car Rental"
-        description="Picking up a rental car at Chios Island National Airport “Omiros” (JKH / LGHI) is simple when you know the pickup flow, the insurance rules, and the local"
+        description="Collect your rental at JKH 'Omiros' airport: prepare your documents, inspect the car before signing, and confirm fuel terms at the desk or kerbside counter."
         canonical="https://chios-car-rental.com/chios-airport-car-rental/"
       />
 

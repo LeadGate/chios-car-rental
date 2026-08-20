@@ -57,7 +57,7 @@ const ParkingAndFuelGuide = () => {
     <Layout>
       <SEOHead
         title="Chios Parking & Fuel Guide: Save Money, Avoid Fines"
-        description="Chios parking and fuel costs are easiest to control when you plan around three facts: Chios Town tickets are concentrated near the port and Aplotaria,"
+        description="Karfas congestion peaks 11:00–17:00 in July–August; airport stations on Leoforos Enoseos are pricier than inland Veriti 41; blue lines mean paid parking."
         canonical="https://chios-car-rental.com/parking-and-fuel-guide/"
       />
 

@@ -32,7 +32,7 @@ const Index = () => {
     <Layout>
       <SEOHead
         title="Chios Car Rental — Compare Deals | Chios Car Rental"
-        description="Renting a car in Chios is the most practical way to reach the island’s beaches, mountain villages, and monasteries because public buses are limited"
+        description="Chios car rental comparison. Off-peak rates from €22/day, JKH airport pickup, mastic villages routes, and Greek Law 5209/2025 driving updates."
         canonical="https://chios-car-rental.com/"
         jsonLd={[breadcrumbSchema]}
       />
