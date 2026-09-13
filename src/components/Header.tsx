@@ -42,12 +42,20 @@ const Header = () => {
         </div>
 
         {/* Mobile toggle — 44x44px minimum touch target */}
-        <h3 className="md:hidden flex items-center justify-center w-11 h-11 text-foreground rounded-md">{open ? <X size={24} /> : <Menu size={24} />}</h3>
+        <button
+          className="md:hidden flex items-center justify-center w-11 h-11 text-foreground rounded-md"
+          onClick={() => setOpen(!open)}
+          aria-label={open ? "Close menu" : "Open menu"}
+          aria-expanded={open}
+        >
+          {open ? <X size={24} /> : <Menu size={24} />}
+        </button>
       </div>
 
       {/* Mobile menu */}
       </nav>
-      <div className="md:hidden fixed inset-0 top-16 z-40 bg-background" role="dialog" aria-label="Mobile navigation">
+      {open && (
+        <div className="md:hidden fixed inset-0 top-16 z-40 bg-background" role="dialog" aria-label="Mobile navigation">
           <nav className="flex flex-col p-6 gap-1" aria-label="Mobile navigation links">
             {navLinks.map((link) => (
               <Link
@@ -64,6 +72,7 @@ const Header = () => {
             ))}
           </nav>
         </div>
+      )}
     </>
   );
 };
