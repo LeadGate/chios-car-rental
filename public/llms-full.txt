@@ -647,10 +647,10 @@ Greek parking rules follow the Hellenic Traffic Code, and Law 5209/2025 is espec
 *   **Yellow lines:** No parking and no stopping; these spaces are often reserved for loading, taxis, or emergency use.
 
 Forbidden stopping zones are also standard across Greece:
-*   Within 12 meters of a junction entry, bend, bridge, or STOP/give-way sign
+*   Within 12 meters of a STOP or give-way sign, or 10 meters of a junction
 *   Within 20 meters of a traffic light
 *   Within 12 meters of a bus stop
-*   Within 15 meters of a level crossing
+*   On or right next to a railway level crossing
 *   Within 3 meters of a fire hydrant
 
 Parking fines for these zones run from **€30** up to **€150 plus a licence withdrawal** for pavement or pedestrian-area parking, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.

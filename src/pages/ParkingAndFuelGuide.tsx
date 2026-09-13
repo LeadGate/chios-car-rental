@@ -86,10 +86,10 @@ const ParkingAndFuelGuide = () => {
           </ul>
           <p className="text-gray-700 mb-4 leading-relaxed">Forbidden stopping zones are also standard across Greece:</p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
-            <li>Within 12 meters of a junction entry, bend, bridge, or STOP/give-way sign</li>
+            <li>Within 12 meters of a STOP or give-way sign, or 10 meters of a junction</li>
             <li>Within 20 meters of a traffic light</li>
             <li>Within 12 meters of a bus stop</li>
-            <li>Within 15 meters of a level crossing</li>
+            <li>On or right next to a railway level crossing</li>
             <li>Within 3 meters of a fire hydrant</li>
           </ul>
           <InfoBox><p>Parking fines for these zones run from <strong>€30</strong> up to <strong>€150 plus a licence withdrawal</strong> for pavement or pedestrian-area parking, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.</p></InfoBox>
