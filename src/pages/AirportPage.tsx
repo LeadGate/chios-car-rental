@@ -175,7 +175,7 @@ const AirportPage = () => {
           <p className="text-gray-700 mb-4 leading-relaxed">Walk around the vehicle with the representative and photograph every panel, wheel, mirror, roof, and windshield before leaving the lot. A damage note on the handover sheet is essential because disputed dents, scratches, or wheel marks can be charged against the deductible if they were not recorded at pickup.</p>
           <h3 className="text-xl font-bold mt-6 mb-3">Step 4: Confirm Fuel and Return Terms</h3>
           <p className="text-gray-700 mb-4 leading-relaxed">Ask for the fuel rule in writing, confirm the return time, and verify the exact drop-off point. If the rental includes “same-to-same” fuel, return the car with the gauge at the same level and keep the receipt from the nearest station, such as <strong>EL.IN Veriti 41</strong>, <strong>EKO Kontari</strong>, <strong>Leoforos Enoseos Independent</strong>, or <strong>Kalouta 16 Independent</strong>.</p>
-          <WarningBox><p>⚠️ <strong>Warning:</strong> <strong>Law 5209/2025</strong> changed Greek urban driving rules, including a <strong>30 km/h limit on single-lane roads</strong> in specific urban contexts, so do not rely on a generic 50 km/h assumption when leaving the airport or entering dense village streets.</p></WarningBox>
+          <WarningBox><p>⚠️ <strong>Warning:</strong> <strong>Law 5209/2025</strong> changed Greek urban driving rules, setting a <strong>30 km/h built-up-area default</strong> (in force since 1 January 2026), so do not rely on a generic 50 km/h assumption when leaving the airport or entering dense village streets.</p></WarningBox>
       </Section>
 
       <ImageDivider src="/3.webp" alt="Chios car rental" />

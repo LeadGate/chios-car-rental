@@ -12,7 +12,7 @@
 - [Chios Airport (JKH / Omiros) Rental Pickup](https://chios-car-rental.com/chios-airport-car-rental): JKH airport guide — HCAA-operated 1,511 m runway; Arrivals Hall rental desk location; SMART 400 m lot; per-destination drive times and local fuel pricing.
 - [Driving in Chios: 2026 Rules & Fines](https://chios-car-rental.com/driving-in-chios): Greek Law 5209/2025 Highway Code — 30 km/h urban limit, €350 phone fine, €700 red light, automated cameras; Law 4850/2021 IDP exemption for USA/UK/CA/AU/GI; road-by-road cautions for Volissos, Avgonyma–Anavatos, Nea Moni.
 - [Chios Mastic Villages Driving Itinerary](https://chios-car-rental.com/day-trips-from-chios): Southern circuit Armolia → Pyrgi → Mesta (60 km loop). Pyrgi xysta facades, Mesta fortress. Mastic Museum €8, closed Tuesday. Villages are pedestrian-only inside walls.
-- [Chios Parking & Fuel Guide 2026](https://chios-car-rental.com/parking-and-fuel-guide): Peripheral parking lots (Farkaina, Ramnis, Evodos); Karfas July/Aug saturation; EL.IN Veriti 41 (€1.939/L) vs Leoforos Enoseos (€2.099/L); €80 parking fine; 5m/15m/3m rule.
+- [Chios Parking & Fuel Guide 2026](https://chios-car-rental.com/parking-and-fuel-guide): Peripheral parking lots (Farkaina, Ramnis, Evodos); Karfas July/Aug saturation; EL.IN Veriti 41 (€1.939/L) vs Leoforos Enoseos (€2.099/L); €30–150 parking fines; 12m/20m stopping-distance rule.
 - [Chios Car Rental FAQ](https://chios-car-rental.com/chios-car-rental-faq): 10 answers citing Law 4850/2021 and Law 5209/2025: IDP rules, 30 km/h urban limit, Çeşme ferry, CDW excess (€160–3000), minimum age, debit cards, mastic-village parking, fine payment.
 - [Rental Car on the Ferry From Chios](https://chios-car-rental.com/rental-car-on-ferry-from-chios): Can a Chios rental car leave the island by ferry? Decision table for Çeşme (Turkey), Piraeus, Lesvos, Psara, Oinousses. Ertürk Lines car fare €100 one way / €150 return + €40 adult; Piraeus car component ~€81.50; Autohellas Hertz Ferry Boat Cover €20/day capped €60; Turkish Customs Law 4458 and Anti-Smuggling Law 5607 §3/9 require a notarised authorisation from the owner, which Chios firms do not issue; vehicle height 2.20 m / 2.4 m / 3.5 m explained.
 - [About Chios Car Rental — Our Sources & Methods](https://chios-car-rental.com/about): Editorial methodology — we cross-reference Greek legislation, HCAA, EL.AS, ELSTAT. Rent comparison from local operators (SMART, Aegean Atsalis, Kampas, Masticars) and international brands.
@@ -20,7 +20,7 @@
 ## Key Data Points
 
 - **Airport:** Chios Island National Airport (IATA: JKH, ICAO: LGHI), operated by the Hellenic Civil Aviation Authority (HCAA) — NOT Fraport. 1,511 m runway, up to Airbus A320. ~230,000 pax/year.
-- **Urban speed limit:** 30 km/h on single-lane roads under Greek Law 5209/2025 (effective Autumn 2025).
+- **Urban speed limit:** 30 km/h built-up-area default under Greek Law 5209/2025 (in force since 1 January 2026); 50 km/h only on multi-lane/divided roads.
 - **IDP exemption:** Drivers from USA, Canada, UK, Australia, Gibraltar are exempt from the International Driving Permit under Greek Law 4850/2021 Article 25 §3 (effective 5 November 2021).
 - **Peak August economy rental:** €66–82/day (aggregator average). Off-peak Oct–Apr: €22–30/day.
 - **Mastic villages:** Mesta, Pyrgi, Olympi — vehicle access INSIDE the medieval walls is physically impossible and legally prohibited; park at designated municipal lots outside.

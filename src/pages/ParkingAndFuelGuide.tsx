@@ -78,7 +78,7 @@ const ParkingAndFuelGuide = () => {
         icon={<Shield className="w-6 h-6" />}
         title="Greek Parking Rules: Blue, White, and Yellow Lines"
       >
-          <InfoBox><p>Greek parking rules follow the Hellenic Traffic Code, and Law 5209/2025 is especially relevant because it also sets the 30 km/h urban limit on single-lane roads. Blue lines mean paid parking, white lines mean free parking, and yellow lines mean no parking or stopping.</p></InfoBox>
+          <InfoBox><p>Greek parking rules follow the Hellenic Traffic Code, and Law 5209/2025 is especially relevant because it also sets the 30 km/h built-up-area default speed limit (in force since 1 January 2026). Blue lines mean paid parking, white lines mean free parking, and yellow lines mean no parking or stopping.</p></InfoBox>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
             <li><strong>Blue lines:</strong> Paid parking with a meter or app; the price and time limit must be posted.</li>
             <li><strong>White lines:</strong> Free parking, but availability is scarce in Chios Town and Karfas during summer.</li>
@@ -86,12 +86,13 @@ const ParkingAndFuelGuide = () => {
           </ul>
           <p className="text-gray-700 mb-4 leading-relaxed">Forbidden stopping zones are also standard across Greece:</p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
-            <li>Within 5 meters of an intersection</li>
-            <li>Within 15 meters of a level crossing or bus stop</li>
+            <li>Within 12 meters of a junction entry, bend, bridge, or STOP/give-way sign</li>
+            <li>Within 20 meters of a traffic light</li>
+            <li>Within 12 meters of a bus stop</li>
+            <li>Within 15 meters of a level crossing</li>
             <li>Within 3 meters of a fire hydrant</li>
-            <li>Within 5 meters of a stop sign or traffic light</li>
           </ul>
-          <InfoBox><p>The standard parking fine is <strong>€80</strong>, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.</p></InfoBox>
+          <InfoBox><p>Parking fines for these zones run from <strong>€30</strong> up to <strong>€150 plus a licence withdrawal</strong> for pavement or pedestrian-area parking, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.</p></InfoBox>
           <p className="text-gray-700 italic mt-3 leading-relaxed">💡 <strong>Tip:</strong> If you are renting from Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, or Goldcar, ask whether the contract includes CDW and whether the excess/deductible is capped. A clear rental quote such as “€24/day with CDW included and €900 excess” is easier to compare than a vague “full protection” line.</p>
       </Section>
 
@@ -128,7 +129,7 @@ const ParkingAndFuelGuide = () => {
         alt
       >
           <p className="text-gray-700 mb-4 leading-relaxed">Kampos district, just south of Chios Town, is a UNESCO-listed-style heritage landscape in visitor perception, but the practical driving issue is narrower: stone walls, blind bends, and very little room for error. The area connects naturally with Nea Moni, Armolia, Mesta, and the southern mastic villages, so rental-car damage risk rises when drivers try to move fast.</p>
-          <p className="text-gray-700 mb-4 leading-relaxed">The main hazard in Kampos is low-speed side-mirror contact on roads bordered by tall walls and hidden driveways. Law 5209/2025 matters here because the single-lane urban limit is 30 km/h, and local driving becomes much safer when you stay below that number.</p>
+          <p className="text-gray-700 mb-4 leading-relaxed">The main hazard in Kampos is low-speed side-mirror contact on roads bordered by tall walls and hidden driveways. Law 5209/2025 matters here because the built-up-area default limit is 30 km/h, and local driving becomes much safer when you stay below that number.</p>
           <ul className="list-disc pl-6 space-y-2 text-gray-700 mb-4">
             <li>Drive at a controlled speed below 30 km/h.</li>
             <li>Use short horn taps before blind corners.</li>

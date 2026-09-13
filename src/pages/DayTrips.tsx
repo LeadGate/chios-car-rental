@@ -105,7 +105,7 @@ const DayTrips = () => {
         "name": "What should you know about local rules and consumer protection?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the urban limit on single-lane roads is 30 km/h, so village streets and built-up areas require slower, more cautious driving than the old 50 km/h default many visitors expect. The Hellenic Police (EL.AS) enforce traffic rules, while the Ministry of Infrastructure and Transport (YPOMEDI) oversees the national framework and the Hellenic Consumer’s Ombudsman (synigoros-katanaloti.gr) is the right escalation body if a rental company dispute is not resolved. If you need a local business reference for a rental desk or fuel-point complaint trail, the Chios Chamber of Commerce and GNTO / visitgreece.gr are the most relevant public institutions to check."
+          "text": "Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the built-up-area default limit is 30 km/h (in force since 1 January 2026), so village streets require slower, more cautious driving than the old 50 km/h default many visitors expect. The Hellenic Police (EL.AS) enforce traffic rules, while the Ministry of Infrastructure and Transport (YPOMEDI) oversees the national framework and the Hellenic Consumer’s Ombudsman (synigoros-katanaloti.gr) is the right escalation body if a rental company dispute is not resolved. If you need a local business reference for a rental desk or fuel-point complaint trail, the Chios Chamber of Commerce and GNTO / visitgreece.gr are the most relevant public institutions to check."
         }
       }
     ]
@@ -222,7 +222,7 @@ const DayTrips = () => {
         icon={<Shield className="w-6 h-6" />}
         title="What should you know about local rules and consumer protection?"
       >
-          <InfoBox><p>Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the urban limit on single-lane roads is 30 km/h, so village streets and built-up areas require slower, more cautious driving than the old 50 km/h default many visitors expect.</p></InfoBox>
+          <InfoBox><p>Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the built-up-area default limit is 30 km/h (in force since 1 January 2026), so village streets require slower, more cautious driving than the old 50 km/h default many visitors expect.</p></InfoBox>
           <p className="text-gray-700 mb-4 leading-relaxed">The Hellenic Police (EL.AS) enforce traffic rules, while the Ministry of Infrastructure and Transport (YPOMEDI) oversees the national framework and the Hellenic Consumer’s Ombudsman (synigoros-katanaloti.gr) is the right escalation body if a rental company dispute is not resolved. If you need a local business reference for a rental desk or fuel-point complaint trail, the Chios Chamber of Commerce and GNTO / visitgreece.gr are the most relevant public institutions to check.</p>
       </Section>
 

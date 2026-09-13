@@ -75,11 +75,11 @@ Local firms may accept debit cards with a higher preauthorisation, but most rent
 
 ## What Should You Know Before Driving in Chios?
 
-Driving in Chios is manageable for most visitors, but the island combines narrow mountain roads, village access restrictions, and changing legal rules that are worth checking before departure. Greek Law 5209/2025 sets a 30 km/h default in single-lane urban streets, while Law 4850/2021 affects which foreign licences are accepted without an IDP, so the legal details matter as much as the route choice.
+Driving in Chios is manageable for most visitors, but the island combines narrow mountain roads, village access restrictions, and changing legal rules that are worth checking before departure. Greek Law 5209/2025 sets a 30 km/h default in built-up urban streets (in force since 1 January 2026), while Law 4850/2021 affects which foreign licences are accepted without an IDP, so the legal details matter as much as the route choice.
 
 | Topic | What Chios Drivers Should Know | Source or Reference |
 | :--- | :--- | :--- |
-| Urban speed limit | 30 km/h on single-lane roads in built-up areas under Law 5209/2025 | Ministry of Infrastructure and Transport (YPOMEDI) |
+| Urban speed limit | 30 km/h default in built-up areas under Law 5209/2025 (since 1 Jan 2026); 50 km/h only on multi-lane/divided roads | Ministry of Infrastructure and Transport (YPOMEDI) |
 | Licence rules | Some visitors from the USA, UK, Canada, Australia, and Gibraltar may rent without an IDP under Law 4850/2021 | Greek legal framework and rental policy |
 | Enforcement | Hellenic Police (EL.AS) checks speed, documents, and parking violations | EL.AS operations |
 | Agriculture | Tractors and farm traffic are common near the Mastichochoria during harvest months | Local road conditions |
@@ -191,7 +191,7 @@ Walk around the vehicle with the representative and photograph every panel, whee
 ### Step 4: Confirm Fuel and Return Terms
 Ask for the fuel rule in writing, confirm the return time, and verify the exact drop-off point. If the rental includes “same-to-same” fuel, return the car with the gauge at the same level and keep the receipt from the nearest station, such as **EL.IN Veriti 41**, **EKO Kontari**, **Leoforos Enoseos Independent**, or **Kalouta 16 Independent**.
 
-> ⚠️ **Warning:** **Law 5209/2025** changed Greek urban driving rules, including a **30 km/h limit on single-lane roads** in specific urban contexts, so do not rely on a generic 50 km/h assumption when leaving the airport or entering dense village streets.
+> ⚠️ **Warning:** **Law 5209/2025** changed Greek urban driving rules, setting a **30 km/h built-up-area default** (in force since 1 January 2026), so do not rely on a generic 50 km/h assumption when leaving the airport or entering dense village streets.
 
 ## What Insurance Should You Choose for a Chios Airport Rental?
 
@@ -330,9 +330,9 @@ Driving on Chios in 2025 is governed by Greece’s new Highway Code, **Law 5209/
 
 ## What Are the Speed Limits Under Law 5209/2025?
 
-**Direct answer:** The key 2025 change for Chios is the **30 km/h** urban limit on single-lane roads under **Law 5209/2025**, which applies in many built-up areas and village streets. The **Hellenic Police (EL.AS.)** enforce this rule, and the law replaces the older habit of assuming 50 km/h everywhere in town.
+**Direct answer:** The current rule for Chios is a **30 km/h** default speed limit in built-up areas under **Law 5209/2025**, in force since **1 January 2026**; 50 km/h applies only on multi-lane or divided urban roads. The **Hellenic Police (EL.AS.)** enforce this rule, and it replaces the older habit of assuming 50 km/h everywhere in town.
 
-**Supporting datapoint:** The current framework distinguishes **30 km/h on urban single-lane roads**, **50 km/h on urban multi-lane roads**, **90 km/h on rural roads**, and **110–128 km/h on expressways/motorways where applicable**. Chios has no motorway network, but the rule matters if you leave the island by ferry and continue driving on the mainland.
+**Supporting datapoint:** The current framework sets **30 km/h as the built-up-area default**, **50 km/h only on urban roads with two or more marked lanes per direction or a central divider**, **90 km/h on ordinary roads outside built-up areas**, **110 km/h on expressways**, and **130 km/h on motorways**. Chios has no motorway network, but the rule matters if you leave the island by ferry and continue driving on the mainland.
 
 **Exception:** Road signage always overrides the default rule, and some sections near schools, works zones, or tight village cores can be lower than the general limit. For route planning and parking context near fuel stops, see [parking and fuel on Chios](/parking-and-fuel-chios).
 
@@ -346,15 +346,15 @@ Driving on Chios in 2025 is governed by Greece’s new Highway Code, **Law 5209/
 
 | Violation | Base Fine | Repeat within 5 Years |
 | :--- | :--- | :--- |
-| Mobile phone use without hands-free | €350 + 30-day licence suspension | €2,000 + 1-year licence suspension |
-| Running a red light | €700 | €2,000 + 1-year licence suspension |
-| Running a STOP sign | €350 | €2,000 + 1-year licence suspension |
-| Seatbelt or child restraint omission | €350 per offence | Higher cumulative exposure |
-| Illegal overtaking on a solid line | €700 per offence | Higher cumulative exposure |
-| DUI (0.50–0.80 g/L BAC) | €350 + 30-day licence suspension | Escalates up to €4,000 for repeats |
-| Speeding up to 20 km/h over limit | €40 | — |
-| Speeding 21–30 km/h over limit | €100 | — |
-| Speeding over 30 km/h above limit | €350 | — |
+| Mobile phone use without hands-free | €350 + 30-day licence & registration withdrawal | Up to €2,000 + 1-year licence withdrawal (3rd offence in 5 years) |
+| Running a red light | €700 + 60-day licence withdrawal | — |
+| Running a STOP sign | €350 + 30-day licence & registration withdrawal (€700 + 60 days if it causes a crash) | — |
+| Seatbelt or child restraint omission | €350 + 30-day licence withdrawal (driver/child seat); €150 (passenger) | Higher cumulative exposure |
+| Illegal overtaking on a solid line | €700 + 30-day licence withdrawal | Higher cumulative exposure |
+| DUI (0.50–0.80 g/L BAC) | €350 + 30-day licence & registration withdrawal | Higher BAC bands: €700 + 90 days (0.80–1.10 g/L); €1,200 + 180 days + imprisonment (>1.10 g/L) |
+| Speeding up to 20 km/h over limit | €150 (no licence withdrawal) | — |
+| Speeding 21–30 km/h over limit | €150 + 20-day licence withdrawal | — |
+| Speeding over 30 km/h above limit | €350 + 30-day licence & registration withdrawal | — |
 
 **Exception:** A rental car company may also charge an administrative fee for processing a police notice or camera fine, and that fee is separate from the state fine. **Piraeus Bank Group Cultural Foundation (PIOP)** material on Chios heritage routes is useful for planning, but it does not change the penalties.
 
@@ -447,8 +447,8 @@ Driving on Chios in 2025 is governed by Greece’s new Highway Code, **Law 5209/
 
 **Exception:** If your licence is outside the exempt list, or if the licence is hard to read without translation, carry an IDP to avoid a pickup refusal.
 
-### What is the speed limit on single-lane roads in Chios?
-**Direct answer:** The default speed limit on urban single-lane roads in Chios is **30 km/h** under **Law 5209/2025**. The **Hellenic Police (EL.AS.)** enforce this limit in towns and village streets.
+### What is the default speed limit in Chios towns and villages?
+**Direct answer:** The default speed limit in built-up areas of Chios is **30 km/h** under **Law 5209/2025**, in force since **1 January 2026**; 50 km/h applies only on multi-lane or divided roads. The **Hellenic Police (EL.AS.)** enforce this limit in towns and village streets.
 
 **Supporting datapoint:** The 2025 Highway Code replaced the old assumption that 50 km/h applied everywhere in urban areas, and the new limit is especially important in **Chios Town, Vrontados, Karfas, Mesta, Pyrgi, and Kampos district**. Camera fines and roadside checks can both trigger enforcement.
 
@@ -597,7 +597,7 @@ For the Mastichochoria, rental pricing is less important than coverage details b
 
 ## What should you know about local rules and consumer protection?
 
-Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the urban limit on single-lane roads is 30 km/h, so village streets and built-up areas require slower, more cautious driving than the old 50 km/h default many visitors expect.
+Chios road rules follow Greek national law, and two current references matter for island drivers: Law 4850/2021 and Law 5209/2025. Under Law 5209/2025, the built-up-area default limit is 30 km/h (in force since 1 January 2026), so village streets require slower, more cautious driving than the old 50 km/h default many visitors expect.
 
 The Hellenic Police (EL.AS) enforce traffic rules, while the Ministry of Infrastructure and Transport (YPOMEDI) oversees the national framework and the Hellenic Consumer’s Ombudsman (synigoros-katanaloti.gr) is the right escalation body if a rental company dispute is not resolved. If you need a local business reference for a rental desk or fuel-point complaint trail, the Chios Chamber of Commerce and GNTO / visitgreece.gr are the most relevant public institutions to check.
 
@@ -640,19 +640,20 @@ Chios parking and fuel costs are easiest to control when you plan around three f
 
 ## Greek Parking Rules: Blue, White, and Yellow Lines
 
-Greek parking rules follow the Hellenic Traffic Code, and Law 5209/2025 is especially relevant because it also sets the 30 km/h urban limit on single-lane roads. Blue lines mean paid parking, white lines mean free parking, and yellow lines mean no parking or stopping.
+Greek parking rules follow the Hellenic Traffic Code, and Law 5209/2025 is especially relevant because it also sets the 30 km/h built-up-area default speed limit (in force since 1 January 2026). Blue lines mean paid parking, white lines mean free parking, and yellow lines mean no parking or stopping.
 
 *   **Blue lines:** Paid parking with a meter or app; the price and time limit must be posted.
 *   **White lines:** Free parking, but availability is scarce in Chios Town and Karfas during summer.
 *   **Yellow lines:** No parking and no stopping; these spaces are often reserved for loading, taxis, or emergency use.
 
 Forbidden stopping zones are also standard across Greece:
-*   Within 5 meters of an intersection
-*   Within 15 meters of a level crossing or bus stop
+*   Within 12 meters of a junction entry, bend, bridge, or STOP/give-way sign
+*   Within 20 meters of a traffic light
+*   Within 12 meters of a bus stop
+*   Within 15 meters of a level crossing
 *   Within 3 meters of a fire hydrant
-*   Within 5 meters of a stop sign or traffic light
 
-The standard parking fine is **€80**, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.
+Parking fines for these zones run from **€30** up to **€150 plus a licence withdrawal** for pavement or pedestrian-area parking, and the Hellenic Police (EL.AS.) can escalate a serious obstruction by removing plates on the spot. If you are unsure about a local sign, the Hellenic Consumer’s Ombudsman at synigoros-katanaloti.gr is the public complaint channel, and the Chios Chamber of Commerce often points visitors to municipal parking zones.
 
 > 💡 **Tip:** If you are renting from Hertz, Avis, Budget, Thrifty, Enterprise, Alamo, Europcar, AbbyCar, AutoUnion, or Goldcar, ask whether the contract includes CDW and whether the excess/deductible is capped. A clear rental quote such as “€24/day with CDW included and €900 excess” is easier to compare than a vague “full protection” line.
 
@@ -688,7 +689,7 @@ The most reliable solution is to book accommodation with guaranteed free parking
 
 Kampos district, just south of Chios Town, is a UNESCO-listed-style heritage landscape in visitor perception, but the practical driving issue is narrower: stone walls, blind bends, and very little room for error. The area connects naturally with Nea Moni, Armolia, Mesta, and the southern mastic villages, so rental-car damage risk rises when drivers try to move fast.
 
-The main hazard in Kampos is low-speed side-mirror contact on roads bordered by tall walls and hidden driveways. Law 5209/2025 matters here because the single-lane urban limit is 30 km/h, and local driving becomes much safer when you stay below that number.
+The main hazard in Kampos is low-speed side-mirror contact on roads bordered by tall walls and hidden driveways. Law 5209/2025 matters here because the built-up-area default limit is 30 km/h, and local driving becomes much safer when you stay below that number.
 
 1. Drive at a controlled speed below 30 km/h.
 2. Use short horn taps before blind corners.
@@ -767,7 +768,7 @@ An International Driving Permit is not required for a licence issued by the USA,
 
 ## 2) What is the new 30 km/h speed limit everyone talks about?
 
-Law 5209/2025 introduced a 30 km/h urban limit on single-lane roads, and that lower limit affects built-up areas in Chios Town, Kampos district, Vrontados, and other settlement streets where a single lane is effectively shared by both directions. The law is the key 2025 rule, and the Hellenic Police (EL.AS) can enforce it with roadside checks and automated camera processing. On a Chios rental itinerary, that means extra caution near schools, village entrances, and narrow streets.
+Law 5209/2025 sets the built-up-area default speed limit at 30 km/h (in force since 1 January 2026), which affects built-up areas in Chios Town, Kampos district, Vrontados, and other settlement streets; 50 km/h still applies on roads with two or more marked lanes per direction or a central divider. The Hellenic Police (EL.AS) can enforce it with roadside checks and automated camera processing. On a Chios rental itinerary, that means extra caution near schools, village entrances, and narrow streets.
 
 > ⚠️ **Warning:** The 30 km/h rule is not a suggestion, and fine processing can include rental-company handling charges if the ticket is issued to a vehicle registered by the agency.
 
@@ -911,7 +912,7 @@ We compare public rates, terms, and vehicle availability from local Chios operat
 
 ## How We Research
 
-Our guidance is based on primary-source verification, not recycled travel advice. For driving regulations, we reference Greek legislation directly, including Law 4850/2021 on International Driving Permit exemptions and Law 5209/2025, which sets the urban limit at 30 km/h on single-lane roads and is enforced by the Hellenic Police (EL.AS) under the Ministry of Infrastructure and Transport (YPOMEDI).
+Our guidance is based on primary-source verification, not recycled travel advice. For driving regulations, we reference Greek legislation directly, including Law 4850/2021 on International Driving Permit exemptions and Law 5209/2025, which sets the built-up-area default speed limit at 30 km/h (in force since 1 January 2026) and is enforced by the Hellenic Police (EL.AS) under the Ministry of Infrastructure and Transport (YPOMEDI).
 
 Airport operational details are confirmed with the Hellenic Civil Aviation Authority (HCAA), which administers JKH and its 1,511 m runway. That runway can handle narrow-body aircraft such as the Airbus A320, and it is not operated by Fraport Greece, which manages 14 other regional airports in Greece but not Chios.
 
