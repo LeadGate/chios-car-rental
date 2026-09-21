@@ -31,7 +31,7 @@ const Index = () => {
   return (
     <Layout>
       <SEOHead
-        title="Chios Car Rental — Compare Deals | Chios Car Rental"
+        title="Chios Car Rental — Compare Deals"
         description="Chios car rental comparison. Off-peak rates from €22/day, JKH airport pickup, mastic villages routes, and Greek Law 5209/2025 driving updates."
         canonical="https://chios-car-rental.com/"
         jsonLd={[breadcrumbSchema]}
